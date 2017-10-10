@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "743973317005",
+    "firebase_url": "https://slike-50f33.firebaseio.com",
+    "project_id": "slike-50f33",
+    "storage_bucket": "slike-50f33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743973317005:android:89960091f52f99ef",
+        "android_client_info": {
+          "package_name": "fr.supinternet.slike"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743973317005-t8itgmojc7dohm4hbpgntpi5tr5hhmle.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYmPyAaIrvW0VbypTyHMXtjT4jHeK7AII"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
